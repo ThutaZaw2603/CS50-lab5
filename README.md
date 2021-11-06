@@ -9,4 +9,6 @@ Inheritance
     
     We can use recursive funtion to create a parson and to his parent and his gradparents so on...
     
+### Note
+    Very similar idea with the tree.c of week 5 lecture.
     
